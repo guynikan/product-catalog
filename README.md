@@ -1,5 +1,40 @@
 # product-catalog
 
+## vue cli
+- eslint
+- prettier
+
+## vuex
+- too much
+- apenas demonstrar
+- responsabilidade de components
+
+## Miragejs
+
+- framework-agnostic 
+- production-ready
+- relacionamento e métodos http
+
+## Modal
+
+- componentização
+- rotas
+
+## Bootstrap
+
+- enferrujado 
+- rapidez no desenvolvimento
+- link pro projeto com sass
+
+## Minimalismo
+
+- tempo
+- iconografia
+
+## Agradecimento
+
+
+
 ## Project setup
 ```
 yarn install
